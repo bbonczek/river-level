@@ -2,11 +2,13 @@
   {
     "id": "150180060",
     "stationName": "Racibórz Miedonia",
-    "river": "Odra"
+    "river": "Odra",
+    "url": "raciborz-miedonia"
   },
   {
     "id": "150180110",
     "stationName": "Ruda Kozielska",
-    "river": "Ruda"
+    "river": "Ruda",
+    "url": "ruda-kozielska"
   }
 ]
