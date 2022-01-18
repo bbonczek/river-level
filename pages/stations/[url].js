@@ -12,7 +12,7 @@ import {
 
 export async function getStaticProps({ params }) {
   const stationData = await getStationData(params.url);
-  const chartData = getChartData();
+  const chartData = await getChartData(params.url);
 
   return {
     props: {
